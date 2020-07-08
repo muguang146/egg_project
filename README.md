@@ -1,2 +1,2 @@
-# egg_projject
+# egg_project
 egg项目
